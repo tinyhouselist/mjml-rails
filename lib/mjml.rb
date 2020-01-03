@@ -3,6 +3,7 @@ require "action_view"
 require "action_view/template"
 require "mjml/mjmltemplate"
 require "mjml/railtie"
+require "terrapin"
 require "rubygems"
 
 module Mjml
